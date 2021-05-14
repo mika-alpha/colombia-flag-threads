@@ -3,12 +3,12 @@ import model.Color;
 
 public class PainterThread extends Thread{
 
-    private Color color;
-    private int xPos;
-    private int xFPos;
-    private String colorValue;
-    private int width;
-    private int sleep;
+    private final Color color;
+    private final int xPos;
+    private final int xFPos;
+    private final String colorValue;
+    private final int width;
+    private final int sleep;
 
     public PainterThread(Color cp, int xp, int xfp, String cl, int w, int s){
         xPos = xp;
