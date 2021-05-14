@@ -4,8 +4,10 @@ The code won't work if your windows 10 doesn't have the reg key for the ansi cha
 
 You can check the class diagram at docs or by click here: [Class Diagram](docs/classdiagram.jpg)
 
-Here are some screenshots of it drawing the flag.
+The flag being draw:
 
 ![Alt text](docs/1.png?raw=true "drawing")
+
+The finished flag: 
 
 ![Alt text](docs/2.png?raw=true "finished flag")
