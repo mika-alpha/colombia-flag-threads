@@ -1,6 +1,6 @@
 This code uses threads, ansi and console virtual terminal sequences to "draw" a Colombia's flag.
 
-You can check the class diagram at docs or by click here: [Documentation](docs/classdiagram.jpg)
+You can check the class diagram at docs or by click here: [Class Diagram](docs/classdiagram.jpg)
 
 Here are some screenshots of it drawing the flag.
 
